@@ -1,0 +1,15 @@
+.similarCircles {
+  transition: fill 0.8s ease;
+}
+
+.similarCircles2 {
+  transition: fill 0.8s ease;
+}
+
+.similarLines {
+  transition: stroke 0.8s ease;
+}
+
+.similarLines2 {
+  transition: stroke 0.8s ease;
+}
